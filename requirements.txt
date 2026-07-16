@@ -1,0 +1,6 @@
+﻿numpy
+matplotlib==3.10.8
+pandas
+seaborn==0.13.2
+scikit-learn
+xgboost

@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excluded project files
+pitchproject_nhatnguyen.ipynb
+Nguyen_Topic28_FinalCode.html
